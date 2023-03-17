@@ -43,7 +43,7 @@ class Email extends BaseConfig
     /**
      * SMTP Port
      */
-    public int $SMTPPort = ;
+    public int $SMTPPort = 465;
 
     /**
      * SMTP Timeout (in seconds)
