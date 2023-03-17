@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <title>Clinica Shiloh - Clínica de Reprodução Humana</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta content="Clinica,fertilidade" name="keywords">
+    <meta content="A Clínica Shiloh conta com um corpo clínico de médicos, embriologistas e enfermagem, altamente qualificado com especialização em reprodução humana, para proporcionar a você e sua família um atendimento personalizado e humanizado.Contamos com uma completa infraestrutura com atendimento clínico em nossos consultórios, laboratório especializado em andrologia e embriologia e centro cirurgico completamente preparado para o seu tratamento de infertilidade, além de áreas especializadas na preservação da fertilidade, ovodoação e recepção de óvulos e produção independente." name="description">
 
     <!-- Favicon -->
     <link href="img/icone.png" rel="icon">
