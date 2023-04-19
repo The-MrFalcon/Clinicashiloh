@@ -12,6 +12,15 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+     <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-706144630"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-706144630');
+</script>
 </body>
 
 </html>

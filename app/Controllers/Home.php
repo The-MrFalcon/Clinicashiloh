@@ -19,7 +19,7 @@ class Home extends BaseController
             . view('template/pages/clinic/bianca')
             . view('template/pages/clinic/renata')
             . view('template/pages/index/end')
-            // . view('template/pages/index/contact')
+            . view('template/pages/index/contact')
             // . view('template/pages/index/testimonial')
             // Estrutura Footer
             . view('template/footer/footer')
