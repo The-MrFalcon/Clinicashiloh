@@ -5,10 +5,10 @@
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <p class="d-inline-block text-center border rounded-pill py-1 px-4">Beta Positivo</p>
             </div>
-            <h3 class="mb-4 text-center">BETA POSITIVO - CLÍNICA SHILOH</h3>
+            <h1 class="mb-4 text-center">BETA POSITIVO - CLÍNICA SHILOH</h1>
             <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.5s">
-                <div class="row bg-light rounded h-100 align-items-center py-3">
-                    <div class="col-sm-4 col-4 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="row bg-primary rounded h-100 align-items-center py-3" style="border: 3px solid #532930">
+                    <div class="col-sm-4 col-4 wow fadeInUp" data-wow-delay="0.7s">
                         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CrBOb8tt7iM/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
                             <div style="padding:16px;"> <a href="https://www.instagram.com/p/CrBOb8tt7iM/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
                                     <div style=" display: flex; flex-direction: row; align-items: center;">
@@ -57,7 +57,7 @@
                             </div>
                         </blockquote>
                     </div>
-                    <div class="col-sm-4  col-12 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="col-sm-4  col-12 wow fadeInUp" data-wow-delay="0.9s">
                         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Cq5kpowsnzu/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
                             <div style="padding:16px;"> <a href="https://www.instagram.com/p/Cq5kpowsnzu/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
                                     <div style=" display: flex; flex-direction: row; align-items: center;">
@@ -106,7 +106,7 @@
                             </div>
                         </blockquote>
                     </div>
-                    <div class="col-sm-4  col-12 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="col-sm-4  col-12 wow fadeInUp" data-wow-delay="1.1s">
                         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CpSSdD6vhlE/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
                             <div style="padding:16px;"> <a href="https://www.instagram.com/p/CpSSdD6vhlE/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
                                     <div style=" display: flex; flex-direction: row; align-items: center;">
