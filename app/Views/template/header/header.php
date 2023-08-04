@@ -71,8 +71,7 @@
         <div class="row gx-0 d-none d-lg-flex">
             <div class="col-lg-7 px-5 text-start">
                 <div class="h-100 d-inline-flex align-items-center py-3 me-4">
-                    <small class="fa fa-map-marker-alt text-dark me-2"></small>
-                    <small>Rua Torrinha 131 - Cidade Mãe do Céu Tatuapé - SP</small>
+                    <small><a class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#endereco"><i class="fa fa-map-marker-alt me-1"></i>Endereços </a></small>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center py-3">
                     <small><a class="button btn btn-primary" data-bs-toggle="modal" data-bs-target="#hour"><i class="fa-regular fa-clock"></i><span>Todos os horários</span> </a></small>
@@ -108,6 +107,32 @@
                     <p>Segunda-feira a sexta: das 7h às 21h</p>
                     <p>Sábado: das 7h às 16h</p>
                     <p>Domingos e feriados: Somente procedimentos</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="button btn btn-secondary" data-bs-dismiss="modal"><i class="fa-solid fa-x"></i> <span>Fechar</span> </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal Horários End -->
+
+    <!-- Modal Horários -->
+    <div class="modal fade profile" id="endereco" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title text-center" id="exampleModalLabel">Endereços</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body row">
+                    <div class="col-6">
+                        <h5 class="text-dark text-center">Tatuapé - Zona Leste  </h5>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.4860194263165!2d-46.576724285022394!3d-23.550981884688035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5ebe05dde4db%3A0x854b3eb1ea27921!2sR.%20Torrinha%2C%20131%20-%20Tatuap%C3%A9%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003332-010!5e0!3m2!1spt-BR!2sbr!4v1675956949872!5m2!1spt-BR!2sbr" width="100%" height="300" class="rounded" style="border: 3px outset #b68693" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                    <div class="col-6">
+                        <h5 class="text-dark text-center">Vila Nova Conceição - Zona Sul </h5>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.255856938824!2d-46.6726382898933!3d-23.59515527868803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59fe231cf969%3A0xa908284bb39c97d4!2sR.%20Afonso%20Braz%2C%20644%20-%2021%20-%20Vila%20Nova%20Concei%C3%A7%C3%A3o%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004511-001!5e0!3m2!1spt-BR!2sbr!4v1691153616481!5m2!1spt-BR!2sbr" width="100%" height="300" class="rounded" style="border: 3px outset #b68693" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="button btn btn-secondary" data-bs-dismiss="modal"><i class="fa-solid fa-x"></i> <span>Fechar</span> </button>

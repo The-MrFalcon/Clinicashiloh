@@ -3105,7 +3105,7 @@ fieldset:disabled .btn {
 .btn-primary:active,
 .btn-primary.active,
 .show>.btn-primary.dropdown-toggle {
-    color: #fff;
+    color: #532930;
     background-color: #532930;
     border-color: #034abc
 }
@@ -4340,7 +4340,7 @@ fieldset:disabled .btn {
 
 .nav-link:hover,
 .nav-link:focus {
-    color: #532930
+    color: #fff
 }
 
 .nav-link.disabled {
