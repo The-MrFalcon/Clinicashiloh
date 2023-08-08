@@ -10,7 +10,7 @@
                         <div class="col-lg-12 col-12 text-center wow fadeIn" data-wow-delay="0.5s">
                             <h1 class="display-5">Fertilização <em>in Vitro </em></h1>
                             <p class="fs-5 text-dark">Tratamentos de reprodução humana de baixa e alta complexidade</p>
-                            <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="">Saiba mais</a>
+                            <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="contact">Saiba mais</a>
                         </div>
                     </div>
                 </div>
@@ -22,7 +22,7 @@
                             <h1 class="display-5">O melhor tratamento</h1>
                             <h1 class="display-5 mb-4">para você e sua família!</h1>
                             <p class="fs-5 text-dark">Especializada em reprodução humana e ginecologia</p>
-                            <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="">Saiba mais</a>
+                            <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="contact">Saiba mais</a>
                         </div>
                     </div>
                 </div>

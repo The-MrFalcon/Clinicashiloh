@@ -2,20 +2,23 @@
     <div class="container py-5">
         <div class="row g-5">
             <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.3s">
-                <div class="bg-dark rounded-pill d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;margin-left: 43%">
+                <div class="bg-dark rounded-pill d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;margin-left: 42%">
                     <i class="fa fa-map-marker-alt text-light fs-3"></i></h2>
                 </div>
-                <h2 class="text-dark mb-4">Localização</h2>
+                <h2 class="text-dark text-uppercase mb-4">Localizações</h2>
                 <hr>
                 </hr>
-                <p class="mb-2 wow fadeIn" data-wow-delay="0.1s"><i class="fa fa-map-marker-alt me-2"></i>Rua Torrinha 131 </p>
-                <p> Cidade Mãe do Céu - Tatuapé - SP</p>
+                <p class="mb-2 wow fadeIn" data-wow-delay="0.1s"><i class="fa fa-map-marker-alt me-2"></i>Rua Torrinha, 131 -  Cidade Mãe do Céu  </p>
+                <p> Tatuapé - Zona Leste - SP</p>
+                <hr>
+                <p class="mb-2 wow fadeIn" data-wow-delay="0.1s"><i class="fa fa-map-marker-alt me-2"></i>Rua Afonso Bráz, 644, cj. 21 </p>
+                <p>  Vila Nova Conceição - Zona Sul - SP</p>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="bg-dark rounded-pill d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;margin-left: 43%">
+                <div class="bg-dark rounded-pill d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;margin-left: 42%">
                     <i class="fas fa-phone-square-alt fs-3 text-light"></i>
                 </div>
-                <h2 class="text-dark mb-4">Entre em Contato</h2>
+                <h2 class="text-dark text-uppercase mb-4">Entre em Contato</h2>
                 <hr>
                 </hr>
                 <a class="mb-2 btn btn-outline-dark wow fadeIn" href="https://api.whatsapp.com/send/?phone=5511995102630&text=Olá%21+Gostaria+de+agendar+uma+consulta.&type=phone_number&app_absent=0" target="_blank" data-wow-delay="0.3s"><i class="fa fa-phone-alt me-2"></i>11 2675 1532 | 99510 2630</a>
@@ -30,10 +33,10 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.5s">
-                <div class="bg-dark rounded-pill d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;margin-left: 43%">
+                <div class="bg-dark rounded-pill d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;margin-left: 42%">
                     <i class="far fa-clock fs-3 text-light"></i>
                 </div>
-                <h2 class="text-dark mb-4">Horário de Atendimento</h2>
+                <h2 class="text-dark text-uppercase mb-4">Horário de Atendimento</h2>
                 <hr>
                 </hr>
                 <p>Segunda-feira a sexta: das 7h às 21h</p>
