@@ -61,6 +61,7 @@ $routes->get('casal-durante-tratamento', 'Blog::casal_durante_tratamento');
 $routes->get('mioma', 'Blog::mioma');
 $routes->get('ansiedade-e-gravidez', 'Blog::ansiedade_e_gravidez');
 $routes->get('procedimento-ia', 'Blog::procedimento_ia');
+$routes->get('gestacao-compartilhada', 'Blog::gestacao_compartilhada');
 $routes->get('preservacao-fertilidade-feminina', 'Blog::preservacao_fertilidade_feminina');
 $routes->get('adenomiose-infertilidade', 'Blog::adenomiose_infertilidade');
 $routes->get('mioma-e-infertilidade', 'Blog::mioma_e_infertilidade');
