@@ -59,6 +59,7 @@ $routes->get('parentalidade', 'Blog::parentalidade');
 $routes->get('sem-trompas', 'Blog::sem_trompas');
 $routes->get('casal-durante-tratamento', 'Blog::casal_durante_tratamento');
 $routes->get('mioma', 'Blog::mioma');
+$routes->get('desejo-ter-filho', 'Blog::desejo_ter_filho');
 $routes->get('ansiedade-e-gravidez', 'Blog::ansiedade_e_gravidez');
 $routes->get('procedimento-ia', 'Blog::procedimento_ia');
 $routes->get('gestacao-compartilhada', 'Blog::gestacao_compartilhada');
