@@ -33,7 +33,7 @@ class Clinic extends BaseController
             . view('template/pages/clinic/caroline')
             . view('template/pages/clinic/gabrielly')
             // Linha 5
-            . view('template/pages/clinic/oluchi')
+            // . view('template/pages/clinic/oluchi')
             . view('template/pages/clinic/end')
             . view('template/banner/banner_consulta')
             . view('template/pages/index/treatment')
