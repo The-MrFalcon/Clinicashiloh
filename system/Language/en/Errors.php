@@ -12,7 +12,7 @@
 // Errors language settings
 return [
     'pageNotFound'    => '404 - Page Not Found',
-    'sorryCannotFind' => 'Sorry! Cannot seem to find the page you were looking for.',
+    'sorryCannotFind' => 'Desculpa! Parece que não conseguiu encontrar a página que estava procurando.',
     'whoops'          => 'Whoops!',
     'weHitASnag'      => 'We seem to have hit a snag. Please try again later...',
 ];

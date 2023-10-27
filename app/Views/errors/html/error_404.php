@@ -70,7 +70,7 @@
 </head>
 <body>
     <div class="wrap">
-        <h1>404</h1>
+        <h1>Erro 404</h1>
 
         <p>
             <?php if (ENVIRONMENT !== 'production') : ?>
@@ -78,6 +78,10 @@
             <?php else : ?>
                 <?= lang('Errors.sorryCannotFind') ?>
             <?php endif ?>
+        </p>
+        
+        <p>
+            <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="/">Voltar</a>
         </p>
     </div>
 </body>
