@@ -1,5 +1,9 @@
 # https://clinicashiloh.com.br
 
+In order to use it, you have to use the following method in the project folder
+
+### php spark serve 
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
