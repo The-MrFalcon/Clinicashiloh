@@ -41,26 +41,14 @@
                 </div>
                 <h1 class="text-light text-center mb-4">Mapa</h1>
                 <div class="break"></div>
-                <ul class="nav nav-tabs" id="myTab" role="tablist">
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Tatuapé - Zona Leste</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane" type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">Vila Nova Conceição - Zona Sul </button>
-                    </li>
-                </ul>
-                <div class="tab-content" id="myTabContent">
-                    <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0"> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.4860194263165!2d-46.576724285022394!3d-23.550981884688035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5ebe05dde4db%3A0x854b3eb1ea27921!2sR.%20Torrinha%2C%20131%20-%20Tatuap%C3%A9%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003332-010!5e0!3m2!1spt-BR!2sbr!4v1675956949872!5m2!1spt-BR!2sbr" width="100%" height="300" class="rounded" style="border: 3px outset #b68693" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
-                    <div class="tab-pane fade" id="profile-tab-pane" role="tabpanel" aria-labelledby="profile-tab" tabindex="0"> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.255856938824!2d-46.6726382898933!3d-23.59515527868803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59fe231cf969%3A0xa908284bb39c97d4!2sR.%20Afonso%20Braz%2C%20644%20-%2021%20-%20Vila%20Nova%20Concei%C3%A7%C3%A3o%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004511-001!5e0!3m2!1spt-BR!2sbr!4v1691153616481!5m2!1spt-BR!2sbr" width="100%" height="300" class="rounded" style="border: 3px outset #b68693" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
-                </div>
-            </div>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7315.453135467822!2d-46.574359!3d-23.542335!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5ec1e4a04849%3A0x24b26c065077724a!2sR.%20Cel.%20Lu%C3%ADs%20Americano%2C%20266%20-%20Vila%20Azevedo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003308-020%2C%20Brasil!5e0!3m2!1spt-BR!2sus!4v1704993386895!5m2!1spt-BR!2sus" width="100%" height="400" class="rounded" style="border: 3px outset #b68693" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
             <div class="col-lg-4 text-center col-md-6">
                 <div class="bg-light rounded-pill d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;margin-left: 43%">
                     <i class="fas fas fa-phone-square-alt text-dark fs-3"></i>
                 </div>
                 <h1 class="text-light mb-4 uppercased">Contato</h1>
                 <div class="break"></div>
-                <a class="mb-2 badge btn btn-outline-light wow fadeIn" href="https://goo.gl/maps/L5jghAcbihfHoWbi7" target="_blank" data-wow-delay="0.1s"><i class="fa fa-map-marker-alt me-2"></i>Rua Torrinha 131 - Cidade Mãe do Céu Tatuapé - SP</a>
+                <a class="mb-2 badge btn btn-outline-light wow fadeIn" href="https://goo.gl/maps/L5jghAcbihfHoWbi7" target="_blank" data-wow-delay="0.1s"><i class="fa fa-map-marker-alt me-2"></i>R. Cel. Luís Americano, 266 - Vila Azevedo</a>
                 <a class="mb-2 btn btn-outline-light wow fadeIn" href="https://api.whatsapp.com/send/?phone=5511995102630&text=Olá%21+Gostaria+de+agendar+uma+consulta.&type=phone_number&app_absent=0" target="_blank" data-wow-delay="0.3s"><i class="fa fa-phone-alt me-2"></i>11 2675 1532 | 99510 2630</a>
                 <p class="mb-2 wow fadeIn" data-wow-delay="0.5s"><i class="fa fa-envelope me-2"></i>atendimento@shilohfertilidade.com.br</p>
                 <div class="d-flex pt-2" style="justify-content: center;">

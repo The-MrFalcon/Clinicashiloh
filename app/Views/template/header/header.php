@@ -125,13 +125,9 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body row">
-                    <div class="col-6">
+                    <div class="col-12">
                         <h5 class="text-dark text-center">Tatuapé - Zona Leste  </h5>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.4860194263165!2d-46.576724285022394!3d-23.550981884688035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5ebe05dde4db%3A0x854b3eb1ea27921!2sR.%20Torrinha%2C%20131%20-%20Tatuap%C3%A9%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003332-010!5e0!3m2!1spt-BR!2sbr!4v1675956949872!5m2!1spt-BR!2sbr" width="100%" height="300" class="rounded" style="border: 3px outset #b68693" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    </div>
-                    <div class="col-6">
-                        <h5 class="text-dark text-center">Vila Nova Conceição - Zona Sul </h5>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.255856938824!2d-46.6726382898933!3d-23.59515527868803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59fe231cf969%3A0xa908284bb39c97d4!2sR.%20Afonso%20Braz%2C%20644%20-%2021%20-%20Vila%20Nova%20Concei%C3%A7%C3%A3o%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004511-001!5e0!3m2!1spt-BR!2sbr!4v1691153616481!5m2!1spt-BR!2sbr" width="100%" height="300" class="rounded" style="border: 3px outset #b68693" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7315.453135467822!2d-46.574359!3d-23.542335!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5ec1e4a04849%3A0x24b26c065077724a!2sR.%20Cel.%20Lu%C3%ADs%20Americano%2C%20266%20-%20Vila%20Azevedo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003308-020%2C%20Brasil!5e0!3m2!1spt-BR!2sus!4v1704993386895!5m2!1spt-BR!2sus" width="100%" height="400" class="rounded" style="border: 3px outset #b68693" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
                 <div class="modal-footer">

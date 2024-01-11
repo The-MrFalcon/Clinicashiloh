@@ -8,11 +8,8 @@
                 <h2 class="text-dark text-uppercase mb-4">Localizações</h2>
                 <hr>
                 </hr>
-                <p class="mb-2 wow fadeIn" data-wow-delay="0.1s"><i class="fa fa-map-marker-alt me-2"></i>Rua Torrinha, 131 -  Cidade Mãe do Céu  </p>
+                <p class="mb-2 wow fadeIn" data-wow-delay="0.1s"><i class="fa fa-map-marker-alt me-2"></i>R. Cel. Luís Americano, 266 - Vila Azevedo </p>
                 <p> Tatuapé - Zona Leste - SP</p>
-                <hr>
-                <p class="mb-2 wow fadeIn" data-wow-delay="0.1s"><i class="fa fa-map-marker-alt me-2"></i>Rua Afonso Bráz, 644, cj. 21 </p>
-                <p>  Vila Nova Conceição - Zona Sul - SP</p>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="bg-dark rounded-pill d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;margin-left: 42%">
